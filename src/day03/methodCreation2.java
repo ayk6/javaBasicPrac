@@ -1,4 +1,4 @@
-package javaBasicPractice;
+package day03;
 
 public class methodCreation2 {
     public static void main(String[] args) {
